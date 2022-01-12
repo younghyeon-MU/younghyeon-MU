@@ -3,7 +3,7 @@
 
 ### Hello, I am younghyeon 👋
 
-
+&nbsp;
 
 <h3>:small_orange_diamond:Education</h3>
 I am a third-year Ph.D. student in the Department of Agricultural and Applied Economics at the University of Missouri - Columbia. 
