@@ -13,7 +13,7 @@ I am styding Agricultural Economics
 My research area focuses on agricultural policy and demand analysis. Also, I am interested in studying the demand system and the Supplemental Nutrition Assistance Program (SNAP)
 
 <h3>:pushpin:current projects:pushpin:</h3>
-Currently working on estimating demand elasticities of U.S. food commodities using a meta-analysis
+I am working on estimating demand elasticities of U.S. food commodities using a meta-analysis
 
 <h3>😎About me😎</h3>
 My hobby is doing Pilates, cooking, and baking. My favorite food is Kimchi, grilled pork and rice. I have a pet and his name is Buddy. 
