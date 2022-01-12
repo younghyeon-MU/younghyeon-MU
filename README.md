@@ -12,7 +12,7 @@ I am a third-year Ph.D. student in the Department of Agricultural and Applied Ec
 I am stuyding Agricultural Economics
 
 <h3>:small_orange_diamond:Research area</h3>
-My research area focuses on agricultural policy and demand analysis. Also, I am interested in studying the demand system and the Supplemental Nutrition Assistance Program (SNAP)
+My research area focuses on agricultural policy and demand analysis. Also, I am interested in studying the Supplemental Nutrition Assistance Program (SNAP)
 
 <h3>:small_orange_diamond:Current projects</h3>
 I am working on estimating demand elasticities of U.S. food commodities using a meta-analysis
