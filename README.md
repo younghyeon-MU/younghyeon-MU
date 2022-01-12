@@ -1,5 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/apitype=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hyein!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+
 
 <h3>📚Education📚</h3>
 I am a third-year Ph.D. student in the Department of Agricultural and Applied Economics at the University of Missouri - Columbia. 
