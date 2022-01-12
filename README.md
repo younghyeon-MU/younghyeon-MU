@@ -18,11 +18,8 @@ I am working on estimating demand elasticities of U.S. food commodities using a 
 <h3>😎About me😎</h3>
 My hobby is doing Pilates, cooking, and baking. My favorite food is Kimchi, grilled pork and rice. I have a pet and his name is Buddy. 
 
-https://img.shields.io/badge/#0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/younghyeon-jeon-7337b5179/
 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/younghyeon-jeon-7337b5179/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/younghyeon-jeon-7337b5179"/></a>&nbsp
-
-  <a href="https://www.instagram.com/hye_inisfree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/> 
 </p>
