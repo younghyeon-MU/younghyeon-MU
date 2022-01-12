@@ -20,7 +20,6 @@ My hobby is doing Pilates, cooking, and baking. My favorite food is Kimchi, gril
 </p>
 
 <h3>:small_orange_diamond:Learn more about me</h3>
-<p align="center">
 <a href="https://www.linkedin.com/in/younghyeon-jeon-7337b5179/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/younghyeon-jeon-7337b5179"/></a>&nbsp
   <a href="https://scholar.google.com/citations?user=hEv4S_4AAAAJ&hl=ko"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat-square&logo=Google Scholar&logoColor=white&link=https://scholar.google.com/citations?user=hEv4S_4AAAAJ&hl=ko"/></a>&nbsp
   <a href="mailto:yjeon@mail.missouri.edu"><img src="https://img.shields.io/badge/Microsoft Outlook-0078D4?style=flat-square&logo=Microsoft Outlook&logoColor=white&link=yjeon@mail.missouri.edu"/></a>&nbsp
