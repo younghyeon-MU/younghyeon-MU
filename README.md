@@ -17,7 +17,7 @@ I am working on estimating demand elasticities of U.S. food commodities using a 
 
 <h3>😎About me😎</h3>
 My hobby is doing Pilates, cooking, and baking. My favorite food is Kimchi, grilled pork and rice. I have a pet and his name is Buddy. 
-
+</p>
 
 
 <p align="center">
