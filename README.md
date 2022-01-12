@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Younghyeon%20Jeon&fontSize=90)
 
+<p align="center">
 ### Hello, I am younghyeon 👋
+</p>
 
 
 <h3>:small_orange_diamond:Education</h3>
