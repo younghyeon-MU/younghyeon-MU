@@ -17,7 +17,7 @@ My research area focuses on agricultural policy and demand analysis. Also, I am 
 <h3>:small_orange_diamond:Current projects</h3>
 I am working on estimating demand elasticities of U.S. food commodities using a meta-analysis.
 
-<h3>:small_orange_diamond:About me</h3>
+<h3>:small_orange_diamond:Fun facts about me</h3>
 My hobby is doing Pilates, cooking, and baking. My favorite foods are Kimchi, grilled pork and rice (Actually, I love all types of Korean food). I have a pet and his name is Buddy. 
 </p>
 
